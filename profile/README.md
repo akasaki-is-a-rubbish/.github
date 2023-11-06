@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+This is an outdated assisted driving system that was born to train ourselves in the process of learning various technologies. This project was created by [VisualDust](https://github.com/visualDust) and maintained by multiple members. Maintenance has been completely stopped, waiting for new upgrades. Specifically, the warehouse owner is learning new 3D-based methods and end-to-end approaches and re-architecting the project.
 
-**Here are some ideas to get you started:**
+architecture:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![](./messed-up-architecture.svg)
+
