@@ -4,5 +4,5 @@ This is an outdated assisted driving system that was born to train ourselves in 
 
 architecture:
 
-![](./messed-up-architecture.svg)
+![](./arch.jpg)
 
